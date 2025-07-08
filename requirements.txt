@@ -1,0 +1,6 @@
+onnxruntime
+numpy
+Pillow
+matplotlib
+psutil
+memory-profiler
